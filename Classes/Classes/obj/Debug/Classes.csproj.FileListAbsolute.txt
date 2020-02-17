@@ -1,0 +1,6 @@
+D:\CSharpCourse\Classes\Classes\bin\Debug\Classes.exe.config
+D:\CSharpCourse\Classes\Classes\bin\Debug\Classes.exe
+D:\CSharpCourse\Classes\Classes\bin\Debug\Classes.pdb
+D:\CSharpCourse\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\CSharpCourse\Classes\Classes\obj\Debug\Classes.exe
+D:\CSharpCourse\Classes\Classes\obj\Debug\Classes.pdb
